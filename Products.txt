@@ -1,0 +1,25 @@
+Apple,150,Red,Pending,1500,Jamil
+Banana,120,None,In Order,1800,Talal
+Orange,60,Big Size,Out of Stock,2500,Samer
+Tomato,100,Green,Pending,1200,Sandy
+Carrot,180,None,Pending,1000,Ahmad
+Coffee,210,Black,Pending,1500,Monir
+Iphone 14,30,256 GB,In Order,14000,Wasim
+Corn,160,None,Out of Stock,2500,Abd
+Laptop,20,Dell,Pending,20000,Sarah
+Books,300,None,Pending,1000,Naser
+Honey,340,Lemon,Pending,1500,Moaaz
+Water melon,120,None,In Order,1800,Khaled
+Orange,90,Big Size,Out of Stock,1100,Saad
+Tomato,180,Green,Pending,1300,Housam
+Carrot,170,None,Pending,1000,Ritta
+Apple,110,Yellow,Pending,1500,Rasha
+Banana,105,None,In Order,1200,John
+Orange,55,Big Size,Out of Stock,2500,Katia
+Tomato,100,Green,Pending,1200,Suzan
+Carrot,180,None,Pending,1000,Asaad
+Apple,350,None,Pending,1500,Shadi
+Banana,120,None,In Order,1800,Nidal
+Orange,60,Big Size,Out of Stock,2500,Yamen
+Tomato,100,Green,Pending,1200,Essam
+Peach,35,None,Pending,1000,Majd
