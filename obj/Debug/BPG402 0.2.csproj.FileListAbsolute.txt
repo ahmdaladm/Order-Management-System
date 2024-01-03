@@ -1,0 +1,7 @@
+C:\Users\Ahmad\Desktop\C#\BPG402 0.2\bin\Debug\BPG402 0.2.exe.config
+C:\Users\Ahmad\Desktop\C#\BPG402 0.2\bin\Debug\BPG402 0.2.exe
+C:\Users\Ahmad\Desktop\C#\BPG402 0.2\bin\Debug\BPG402 0.2.pdb
+C:\Users\Ahmad\Desktop\C#\BPG402 0.2\obj\Debug\BPG402 0.2.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\C#\BPG402 0.2\obj\Debug\BPG402 0.2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\C#\BPG402 0.2\obj\Debug\BPG402 0.2.exe
+C:\Users\Ahmad\Desktop\C#\BPG402 0.2\obj\Debug\BPG402 0.2.pdb
